@@ -1,3 +1,9 @@
+app.py
+static/styles.css
+templates/index.html
+
+
+
 # servidor-onion
 
 sudo apt update
